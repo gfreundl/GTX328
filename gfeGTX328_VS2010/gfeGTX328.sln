@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gfeGTX328", "gfeGTX328.vcxproj", "{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenALExample", "OpenALExample.vcxproj", "{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug64|Win32 = Debug64|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Debug|Win32.Build.0 = Debug|Win32
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Debug64|Win32.ActiveCfg = Debug64|Win32
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Debug64|Win32.Build.0 = Debug64|Win32
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Release|Win32.ActiveCfg = Release|Win32
+		{345EEC9A-8FF9-404D-B5F6-C00D8E4295EC}.Release|Win32.Build.0 = Release|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Debug|Win32.Build.0 = Debug|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Debug64|Win32.ActiveCfg = Debug|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Debug64|Win32.Build.0 = Debug|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Release|Win32.ActiveCfg = Release|Win32
+		{26810606-CFC0-B2B7-4CD5-CDF7ACD317DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

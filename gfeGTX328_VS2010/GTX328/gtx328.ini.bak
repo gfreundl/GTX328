@@ -1,0 +1,13 @@
+[common]
+Left=2380
+Right=3000
+Bottom=84
+Top=247
+VFRCode=7000
+OAT=1
+FC=0
+AutoFlightTimer=1
+Display=0
+Backlight=2
+AlertSound=1
+Bezel=0
