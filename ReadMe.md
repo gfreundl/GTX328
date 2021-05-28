@@ -1,4 +1,4 @@
-**GTX328 Simulation for X-Plane**
+# GTX328 Simulation for X-Plane
 
 This is a simulation of the ubiqitous Garmin GTX 327,328,330 transponder, found in many of todays GA airplanes.
 Functions are closely modelled to the original instrument, such as IDENT button, configurable VFR Code, various timers, 
@@ -9,7 +9,7 @@ Configuration that in the real thing would be performed in the configuration men
 
 For proper use of this transponder, please refer to the original Garmin GTX 328 Transponder Pilot's Guide, available anywhere on the Internet.
 
-**Technical notes**
+# Technical notes
 
 Install by unzipping GTX328 directory into plugins folder, 
 Instrument can be moved around on the panel by dragging in the upper bezel area
@@ -26,20 +26,20 @@ It is not endorsed by the original manufacturer.
 
 
 Configuration parameters stored in GTX328.ini:
-Left				screen coordinates define position and instrument size
-Right				screen coordinates define position and instrument size
-Bottom				screen coordinates define position and instrument size
-Top					screen coordinates define position and instrument size
-VFR Code			local authority VFR Code
-OAT option			0 or 1
-°F / °C				0 = Fahrenheit, 1 = Celsius
-AutoFlightTimer		0 = Man, 1 = Clear at every lift off, 2 = Accum counting after lift off
-Display				0 = Auto, 1 = black background, 2 = light background
-Backlight			0 = manual, 1 = X-Plane lighting bus, 2 = X-Plane ambient, 3 = hardware photo cell
-AlertSound			0 = bell, 1 = male voice, 2 = female voice
-Bezel				0 = don't show bezel
-AudioDevice			Display Name from Device Manager
-Voltage				12 or 24 volts
+- Left				screen coordinates define position and instrument size
+- Right				screen coordinates define position and instrument size
+- Bottom				screen coordinates define position and instrument size
+- Top					screen coordinates define position and instrument size
+- VFR Code			local authority VFR Code
+- OAT option			0 or 1
+- °F / °C				0 = Fahrenheit, 1 = Celsius
+- AutoFlightTimer		0 = Man, 1 = Clear at every lift off, 2 = Accum counting after lift off
+- Display				0 = Auto, 1 = black background, 2 = light background
+- Backlight			0 = manual, 1 = X-Plane lighting bus, 2 = X-Plane ambient, 3 = hardware photo cell
+- AlertSound			0 = bell, 1 = male voice, 2 = female voice
+- Bezel				0 = don't show bezel
+- AudioDevice			Display Name from Device Manager
+- Voltage				12 or 24 volts
 
 As per now, these features are not implemented:
 - FLT ID setup (can be done from within X-Plane)
