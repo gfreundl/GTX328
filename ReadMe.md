@@ -1,3 +1,5 @@
+**GTX328 Simulation for X-Plane**
+
 This is a simulation of the ubiqitous Garmin GTX 327,328,330 transponder, found in many of todays GA airplanes.
 Functions are closely modelled to the original instrument, such as IDENT button, configurable VFR Code, various timers, 
 temperature and density altitude as well as altitude monitor and aural alerts.
@@ -7,7 +9,8 @@ Configuration that in the real thing would be performed in the configuration men
 
 For proper use of this transponder, please refer to the original Garmin GTX 328 Transponder Pilot's Guide, available anywhere on the Internet.
 
-Technical notes:
+**Technical notes**
+
 Install by unzipping GTX328 directory into plugins folder, 
 Instrument can be moved around on the panel by dragging in the upper bezel area
 Size of the instrument can be configured in the ini file. 
